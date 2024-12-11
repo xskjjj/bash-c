@@ -1,7 +1,5 @@
 #!/bin/bash
-#Name: Jingwen Xiao
-#Dapartment: Computer Science
-#Email: jingwen.xiao@mail.mcgill.ca
+
 
 #check if there is 2 parameter
 if [[ $# -ne 2 ]]
